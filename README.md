@@ -1,5 +1,6 @@
 # HtmlCss-Loading-Spinner
 Pure Html Css page / Content loading Spinner Indicator
+
 fully Customizable:
 -change size
 -change the different colors
